@@ -62,4 +62,4 @@ func azure functionapp publish <your-function-app-name>
 ## 🙌 Author
 Built by [@HOODIE3](https://github.com/HOODIE3) to demonstrate cost-effective Azure automation with serverless architecture and IaC.
 
-> 💡 First GitHub project? Congrats! You’re leveling up your cloud skills the right way 💪
+> 💡 💪
