@@ -30,7 +30,7 @@ spotvm-snapshot-automation/
 │   └── requirements.txt
 ├── main.bicep                # Bicep template to deploy infrastructure
 ├── .gitignore
-└── README.md                 # You're here!
+└── README.md                
 ```
 
 ---
@@ -53,7 +53,6 @@ func azure functionapp publish <your-function-app-name>
 ---
 
 ## 📈 To-Do / Improvements
-- [ ] Add GitHub Actions for CI/CD
 - [ ] Add email or Teams alert on snapshot failure
 - [ ] Add snapshot retention policy automation
 
